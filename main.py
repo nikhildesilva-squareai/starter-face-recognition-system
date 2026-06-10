@@ -1,0 +1,16 @@
+"""
+Face Recognition System — Square 1 AI Project
+Course: Computer Vision
+Difficulty: intermediate
+
+TODO: Implement your solution here.
+"""
+
+
+def main():
+    print("Face Recognition System — Starting...")
+    # Your code here
+
+
+if __name__ == "__main__":
+    main()
